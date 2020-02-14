@@ -1,0 +1,39 @@
+# main links
+main:
+  - title: "Tech"
+    url: /tech/
+  - title: "Finance"
+    url: /finance/
+  - title: "Paper Review"
+    url: /paper-review/
+  - title: "Blog"
+    url: /blog/
+  - title: "Category"
+    url: /category/
+
+# documentation links
+sidebar-tech:
+  - title: 단어정리
+    children:
+      - title: "컴퓨터"
+        url: /words/computer/
+      - title: "기타"
+        url: /words/etc/
+  - title: 개념&테스트
+    children:
+      - title: "리눅스 명령어"
+        url: /concept-test/linux-command/
+      - title: "리눅스 커널"
+        url: /concept-test/linux-kernel/
+      - title: "네트워크"
+        url: /concept-test/network/
+      - title: "클라우드"
+        url: /concept-test/cloud/
+  - title: 개발
+    children:
+      - title: "python"
+        url: /development/python/
+      - title: "java"
+        url: /development/java/
+      - title: "c++"
+        url: /development/cpp/
