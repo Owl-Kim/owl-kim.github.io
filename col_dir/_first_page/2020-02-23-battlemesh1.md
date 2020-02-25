@@ -4,8 +4,6 @@ categories:
   - about
 last_modified_at: 2020-02-24T23:25:00:00+09:00
 toc: true
-author_profile: true
-layout: single
 ---
 
 안녕하세요. Owl Kim 입니다.
